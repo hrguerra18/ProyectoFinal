@@ -1,0 +1,38 @@
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\BLL.dll
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\BLL.pdb
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\ENTITY.dll
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\ENTITY.pdb
+C:\Users\HP\Desktop\Proyecto Anya\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto Anya\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\Proyecto Anya\BLL\obj\Debug\BLL.dll
+C:\Users\HP\Desktop\Proyecto Anya\BLL\obj\Debug\BLL.pdb
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\Infraestructura.dll
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\ClosedXML.dll
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\Infraestructura.pdb
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\ClosedXML.pdb
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\ClosedXML.xml
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\HP\Desktop\Proyecto Anya\BLL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\ENTITY.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\Infraestructura.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\ClosedXML.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\ENTITY.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\Infraestructura.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\ClosedXML.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\ClosedXML.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\BLL\obj\Debug\BLL.pdb

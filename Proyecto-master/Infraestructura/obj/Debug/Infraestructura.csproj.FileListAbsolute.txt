@@ -1,0 +1,32 @@
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\ClosedXML.dll
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\ENTITY.dll
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\ExcelNumberFormat.dll
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\System.IO.Packaging.dll
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\ENTITY.pdb
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\ClosedXML.pdb
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\ClosedXML.xml
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\bin\Debug\ExcelNumberFormat.xml
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\HP\Desktop\Proyecto Anya\Infraestructura\obj\Debug\Infraestructura.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\Infraestructura.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\Infraestructura.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\ClosedXML.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\ENTITY.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\System.IO.Packaging.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\ENTITY.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\ClosedXML.pdb
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\ClosedXML.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\obj\Debug\Infraestructura.dll
+C:\Users\Usuario\source\repos\Proyecto-master\Proyecto-master\Infraestructura\obj\Debug\Infraestructura.pdb
